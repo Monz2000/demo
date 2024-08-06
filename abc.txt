@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 again created
+=======
+hi hello
+
+git developed
+>>>>>>> develop
+
+commit 1
